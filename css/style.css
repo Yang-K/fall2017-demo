@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One');
+
+html{
+    font-size: 16px;
+}
+
+body {
+    background-color: #326273;
+    background-image: url("../images/moon.jpg");
+    background-size: cover;
+
+}
+
+h1, h2{
+    color: #E39774;
+    text-align: center;
+}
+
+p{
+    color: #EEEEEE;
+}
+
+#purpose {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.larger_text{
+    font-size: 2rem;
+}
+
+.yellow_text{
+    color: yellow;
+    background-color: black;
+}
+
+/* Change the color of the hyperlinks. */
+#nav a:link{
+    color: yellow;
+}
+
+#nav a:visited{
+    
+}
+
+#nav a:hover{
+    
+}
+
+#nav a:active{
+    
+}
